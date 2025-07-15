@@ -1,1 +1,2 @@
 
+该项目对skinSegmentVideo进行的认为拆分和封装，但是只有yolo系列，没有实现skin的视频推理部署。
